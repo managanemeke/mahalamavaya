@@ -43,7 +43,7 @@ Simple Vue3 front-end for mahalama.
 - `docker --version`  
     `docker-compose --version`
 
-- `wget http://localhost:8081`  
+- `wget http://localhost:9003`  
     `vi index.html`  
     and you will see...
 
