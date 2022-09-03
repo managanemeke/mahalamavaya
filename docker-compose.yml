@@ -6,7 +6,7 @@ services:
       dockerfile: Dockerfile
     container_name: vaya
     ports:
-      - "8081:8080"
+      - "9003:8080"
     volumes:
       - ./vaya:/app
       - ./vaya/node_modules:/app/node_modules

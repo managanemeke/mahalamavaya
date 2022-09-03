@@ -11,7 +11,7 @@ docker-compose up --build -d
 #
 echo ""
 echo "check this:"
-echo "http://localhost:8081"
+echo "http://localhost:9003"
 echo "to stop run:"
 echo "sudo ./na.sh"
 echo "or"
