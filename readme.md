@@ -37,6 +37,8 @@ Simple Vue3 front-end for mahalama.
 ### startapps stage
 
 - `./ma.sh`
+- inside docker container run to start app:  
+    `nohup npm run serve >> app.log &`
 
 ### testapps stage
 
