@@ -8,7 +8,7 @@ docker-compose exec vaya /bin/sh -c '\
   npm install'
 #
 docker-compose exec vaya /bin/sh -c '\
-  npm run serve'
+  nohup npm run serve >> app.log 2>&1 &'
 #
 echo ""
 echo "check this:"
