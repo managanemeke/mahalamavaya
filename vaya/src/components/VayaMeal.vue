@@ -50,7 +50,7 @@
     }
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
     input, button {
         background: none;
         outline: none;

@@ -49,7 +49,7 @@
     //
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
     .tamasama {
         display: flex;
         flex-direction: center;

@@ -23,6 +23,6 @@ import VayaMeal from './VayaMeal.vue';
     }
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 
 </style>

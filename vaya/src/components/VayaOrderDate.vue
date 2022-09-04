@@ -40,7 +40,7 @@ function getTomorrowString() {
     }
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
     input, select {
         background: none;
         outline: none;

@@ -64,7 +64,7 @@
     }
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
     button {
         background: none;
         outline: none;
