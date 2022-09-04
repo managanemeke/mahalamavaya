@@ -1,6 +1,7 @@
 version: "3"
 services:
   vaya:
+    tty: true
     build:
       context: ./vaya
       dockerfile: Dockerfile
